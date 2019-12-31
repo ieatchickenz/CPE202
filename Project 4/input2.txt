@@ -1,0 +1,6 @@
+linear
+probing
+is
+one of the collision resolution techniques
+for hash tables.
+Linear probing is a very efficient way to resolve collisions of hashed keys.
